@@ -1,6 +1,6 @@
 # Grapple Ballkour
 
-<h3> ☄️ 2D Platformer Android Mobile Game </h3>
+<h3>☄️ 2D Platformer Android Mobile Game </h3>
 
 Grapple Ballkour is a platformer game that utilizes physics to help a ball grapple onto obstacles and dodge projectiles to clear levels
 * Features 15+ challenging levels to test your grappling expertise!
